@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ivan-minigulov
-- 👀 I’m interested in participating in projects ML, DL, Kaggle
-- 🌱 I’m currently learning Machine Learning, Deep Learning
-- 💞️ I’m looking to collaborate on competitions Kaggle
+- I am develoder
 - 📫 How to reach me ivan_minigulov@mail.ru
 
 <!---
